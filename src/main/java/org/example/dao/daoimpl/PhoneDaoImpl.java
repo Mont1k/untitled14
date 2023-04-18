@@ -1,2 +1,4 @@
-package org.example.dao.daoimpl;public class PhoneDaoImpl {
+package org.example.dao.daoimpl;
+
+public class PhoneDaoImpl {
 }

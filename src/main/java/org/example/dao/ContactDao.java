@@ -1,2 +1,4 @@
-package org.example.dao;public interface ContactDao {
+package org.example.dao;
+
+public interface ContactDao {
 }
